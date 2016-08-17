@@ -8,5 +8,6 @@
 #' 
 #'  @docType package
 #'  @name reedoilabs
+#'  @import  BHH2
 NULL
-#> NULL
+
